@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey":" ",
+    "db":"mongodb+srv://bhargav:bhargav@cluster0-2bf8a.mongodb.net/busDb?retryWrites=true&w=majority"
+
+}

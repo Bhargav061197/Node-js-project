@@ -1,0 +1,303 @@
+{
+  level: 'error',
+  message: 'ticketModel.find(...).selec is not a functionticketModel.find(...).selec is not a function',
+  stack: 'TypeError: ticketModel.find(...).selec is not a function\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/routes/tickets/view-open-tickets.js:9:48\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports (/home/bhargav_p/Downloads/github/BusTicket/middleware/auth.js:12:5)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:47:12)',
+  label: 'error!',
+  timestamp: '2020-06-05T08:59:32.718Z'
+}
+{
+  level: 'error',
+  message: 'ticketModel.collection.find(...).exec is not a functionticketModel.collection.find(...).exec is not a function',
+  stack: 'TypeError: ticketModel.collection.find(...).exec is not a function\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/routes/tickets/ticket-user-details.js:11:10\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports (/home/bhargav_p/Downloads/github/BusTicket/middleware/auth.js:12:5)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:47:12)',
+  label: 'error!',
+  timestamp: '2020-06-05T15:45:12.512Z'
+}
+{
+  level: 'error',
+  message: 'ticketModel.collection.find(...).exec is not a functionticketModel.collection.find(...).exec is not a function',
+  stack: 'TypeError: ticketModel.collection.find(...).exec is not a function\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/routes/tickets/ticket-user-details.js:11:10\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports (/home/bhargav_p/Downloads/github/BusTicket/middleware/auth.js:12:5)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:47:12)',
+  label: 'error!',
+  timestamp: '2020-06-05T15:45:18.295Z'
+}
+{
+  level: 'error',
+  message: 'ticketModel.collection.find(...).exec is not a functionticketModel.collection.find(...).exec is not a function',
+  stack: 'TypeError: ticketModel.collection.find(...).exec is not a function\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/routes/tickets/ticket-user-details.js:11:10\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports (/home/bhargav_p/Downloads/github/BusTicket/middleware/auth.js:12:5)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:47:12)',
+  label: 'error!',
+  timestamp: '2020-06-05T15:45:37.790Z'
+}
+{
+  level: 'error',
+  message: 'ticketModel.collection.find(...).exec is not a functionticketModel.collection.find(...).exec is not a function',
+  stack: 'TypeError: ticketModel.collection.find(...).exec is not a function\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/routes/tickets/ticket-user-details.js:11:10\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at module.exports (/home/bhargav_p/Downloads/github/BusTicket/middleware/auth.js:12:5)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:137:13)\n' +
+    '    at Route.dispatch (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/route.js:112:3)\n' +
+    '    at newFn (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express-async-errors/index.js:16:20)\n' +
+    '    at Layer.handle [as handle_request] (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/layer.js:95:5)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:281:22\n' +
+    '    at Function.process_params (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:335:12)\n' +
+    '    at next (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:275:10)\n' +
+    '    at Function.handle (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:174:3)\n' +
+    '    at router (/home/bhargav_p/Downloads/github/BusTicket/node_modules/express/lib/router/index.js:47:12)',
+  label: 'error!',
+  timestamp: '2020-06-05T15:45:40.167Z'
+}
+{
+  operationTime: Timestamp { _bsontype: 'Timestamp', low_: 1, high_: 1591372288 },
+  ok: 0,
+  errmsg: 'elemMatch: Invalid argument, object required.',
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: Timestamp { _bsontype: 'Timestamp', low_: 1, high_: 1591372288 },
+    signature: {
+      hash: Binary {
+        _bsontype: 'Binary',
+        sub_type: 0,
+        position: 20,
+        buffer: <Buffer dd 0f 6f 80 34 e8 2a 27 ef 5f 12 05 41 eb 4d 21 ea 7d 2a 98>
+      },
+      keyId: Long { _bsontype: 'Long', low_: 3, high_: 1591293026 }
+    }
+  },
+  name: 'MongoError',
+  level: 'error',
+  message: 'elemMatch: Invalid argument, object required.elemMatch: Invalid argument, object required.',
+  stack: 'MongoError: elemMatch: Invalid argument, object required.\n' +
+    '    at MessageStream.messageHandler (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/connection.js:261:20)\n' +
+    '    at MessageStream.emit (events.js:315:20)\n' +
+    '    at processIncomingData (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/message_stream.js:144:12)\n' +
+    '    at MessageStream._write (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/message_stream.js:42:5)\n' +
+    '    at doWrite (_stream_writable.js:403:12)\n' +
+    '    at writeOrBuffer (_stream_writable.js:387:5)\n' +
+    '    at MessageStream.Writable.write (_stream_writable.js:318:11)\n' +
+    '    at TLSSocket.ondata (_stream_readable.js:717:22)\n' +
+    '    at TLSSocket.emit (events.js:315:20)\n' +
+    '    at addChunk (_stream_readable.js:295:12)\n' +
+    '    at readableAddChunk (_stream_readable.js:271:9)\n' +
+    '    at TLSSocket.Readable.push (_stream_readable.js:212:10)\n' +
+    '    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23)',
+  label: 'error!',
+  timestamp: '2020-06-05T15:51:33.515Z',
+  [Symbol(mongoErrorContextSymbol)]: {}
+}
+{
+  operationTime: Timestamp { _bsontype: 'Timestamp', low_: 3, high_: 1591372316 },
+  ok: 0,
+  errmsg: 'elemMatch: Invalid argument, object required.',
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: Timestamp { _bsontype: 'Timestamp', low_: 3, high_: 1591372316 },
+    signature: {
+      hash: Binary {
+        _bsontype: 'Binary',
+        sub_type: 0,
+        position: 20,
+        buffer: <Buffer 62 ad b7 0f 96 00 f2 62 c6 b5 5c 1f b6 54 62 ba 0b 83 c5 07>
+      },
+      keyId: Long { _bsontype: 'Long', low_: 3, high_: 1591293026 }
+    }
+  },
+  name: 'MongoError',
+  level: 'error',
+  message: 'elemMatch: Invalid argument, object required.elemMatch: Invalid argument, object required.',
+  stack: 'MongoError: elemMatch: Invalid argument, object required.\n' +
+    '    at MessageStream.messageHandler (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/connection.js:261:20)\n' +
+    '    at MessageStream.emit (events.js:315:20)\n' +
+    '    at processIncomingData (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/message_stream.js:144:12)\n' +
+    '    at MessageStream._write (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/message_stream.js:42:5)\n' +
+    '    at doWrite (_stream_writable.js:403:12)\n' +
+    '    at writeOrBuffer (_stream_writable.js:387:5)\n' +
+    '    at MessageStream.Writable.write (_stream_writable.js:318:11)\n' +
+    '    at TLSSocket.ondata (_stream_readable.js:717:22)\n' +
+    '    at TLSSocket.emit (events.js:315:20)\n' +
+    '    at addChunk (_stream_readable.js:295:12)\n' +
+    '    at readableAddChunk (_stream_readable.js:271:9)\n' +
+    '    at TLSSocket.Readable.push (_stream_readable.js:212:10)\n' +
+    '    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23)',
+  label: 'error!',
+  timestamp: '2020-06-05T15:52:02.022Z',
+  [Symbol(mongoErrorContextSymbol)]: {}
+}
+{
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: '{\n' +
+    '\t"Data":[\n' +
+    '\t\t{"ticketNo":3,"name":"hello","age":"43","source":"ahm","destination":"bom"},\n' +
+    '\t\t\n' +
+    '\t\t]\n' +
+    '}',
+  type: 'entity.parse.failed',
+  level: 'error',
+  message: 'Unexpected token ] in JSON at position 96Unexpected token ] in JSON at position 96',
+  stack: 'SyntaxError: Unexpected token ] in JSON at position 96\n' +
+    '    at JSON.parse (<anonymous>)\n' +
+    '    at parse (/home/bhargav_p/Downloads/github/BusTicket/node_modules/body-parser/lib/types/json.js:89:19)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/body-parser/lib/read.js:121:18\n' +
+    '    at invokeCallback (/home/bhargav_p/Downloads/github/BusTicket/node_modules/raw-body/index.js:224:16)\n' +
+    '    at done (/home/bhargav_p/Downloads/github/BusTicket/node_modules/raw-body/index.js:213:7)\n' +
+    '    at IncomingMessage.onEnd (/home/bhargav_p/Downloads/github/BusTicket/node_modules/raw-body/index.js:273:7)\n' +
+    '    at IncomingMessage.emit (events.js:327:22)\n' +
+    '    at endReadableNT (_stream_readable.js:1221:12)\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:84:21)',
+  label: 'error!',
+  timestamp: '2020-06-05T16:51:24.039Z'
+}
+{
+  driver: true,
+  name: 'MongoError',
+  index: 0,
+  code: 28,
+  errmsg: "Cannot create field 'email' in element {userDetails: [ { _id: ObjectId('5eda79ddd73d0342ff77ade9') } ]}",
+  level: 'error',
+  message: "Cannot create field 'email' in element {userDetails: [ { _id: ObjectId('5eda79ddd73d0342ff77ade9') } ]}Cannot create field 'email' in element {userDetails: [ { _id: ObjectId('5eda79ddd73d0342ff77ade9') } ]}",
+  stack: "MongoError: Cannot create field 'email' in element {userDetails: [ { _id: ObjectId('5eda79ddd73d0342ff77ade9') } ]}\n" +
+    '    at Function.create (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/core/error.js:43:12)\n' +
+    '    at toError (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/utils.js:149:22)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/operations/common_functions.js:376:39\n' +
+    '    at handler (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/core/sdam/topology.js:913:24)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/connection_pool.js:352:13\n' +
+    '    at handleOperationResult (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/core/sdam/server.js:489:5)\n' +
+    '    at MessageStream.messageHandler (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/connection.js:270:5)\n' +
+    '    at MessageStream.emit (events.js:315:20)\n' +
+    '    at processIncomingData (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/message_stream.js:144:12)\n' +
+    '    at MessageStream._write (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/message_stream.js:42:5)\n' +
+    '    at doWrite (_stream_writable.js:403:12)\n' +
+    '    at writeOrBuffer (_stream_writable.js:387:5)\n' +
+    '    at MessageStream.Writable.write (_stream_writable.js:318:11)\n' +
+    '    at TLSSocket.ondata (_stream_readable.js:717:22)\n' +
+    '    at TLSSocket.emit (events.js:315:20)\n' +
+    '    at addChunk (_stream_readable.js:295:12)',
+  label: 'error!',
+  timestamp: '2020-06-05T17:01:18.709Z',
+  [Symbol(mongoErrorContextSymbol)]: {}
+}
+{
+  driver: true,
+  name: 'MongoError',
+  index: 0,
+  code: 28,
+  errmsg: "Cannot create field 'email' in element {userDetails: [ { _id: ObjectId('5eda79ddd73d0342ff77ade9') } ]}",
+  level: 'error',
+  message: "Cannot create field 'email' in element {userDetails: [ { _id: ObjectId('5eda79ddd73d0342ff77ade9') } ]}Cannot create field 'email' in element {userDetails: [ { _id: ObjectId('5eda79ddd73d0342ff77ade9') } ]}",
+  stack: "MongoError: Cannot create field 'email' in element {userDetails: [ { _id: ObjectId('5eda79ddd73d0342ff77ade9') } ]}\n" +
+    '    at Function.create (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/core/error.js:43:12)\n' +
+    '    at toError (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/utils.js:149:22)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/operations/common_functions.js:376:39\n' +
+    '    at handler (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/core/sdam/topology.js:913:24)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/connection_pool.js:352:13\n' +
+    '    at handleOperationResult (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/core/sdam/server.js:489:5)\n' +
+    '    at MessageStream.messageHandler (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/connection.js:270:5)\n' +
+    '    at MessageStream.emit (events.js:315:20)\n' +
+    '    at processIncomingData (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/message_stream.js:144:12)\n' +
+    '    at MessageStream._write (/home/bhargav_p/Downloads/github/BusTicket/node_modules/mongodb/lib/cmap/message_stream.js:42:5)\n' +
+    '    at doWrite (_stream_writable.js:403:12)\n' +
+    '    at writeOrBuffer (_stream_writable.js:387:5)\n' +
+    '    at MessageStream.Writable.write (_stream_writable.js:318:11)\n' +
+    '    at TLSSocket.ondata (_stream_readable.js:717:22)\n' +
+    '    at TLSSocket.emit (events.js:315:20)\n' +
+    '    at addChunk (_stream_readable.js:295:12)',
+  label: 'error!',
+  timestamp: '2020-06-05T17:01:19.013Z',
+  [Symbol(mongoErrorContextSymbol)]: {}
+}
+{
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: '{\n' +
+    '\t"Data":[\n' +
+    '\t\t{"ticketNo":26,"name":"hello","age":"43","source":"ahm","destination":"bom"},\n' +
+    '\t\t\n' +
+    '\t\t]\n' +
+    '}',
+  type: 'entity.parse.failed',
+  level: 'error',
+  message: 'Unexpected token ] in JSON at position 97Unexpected token ] in JSON at position 97',
+  stack: 'SyntaxError: Unexpected token ] in JSON at position 97\n' +
+    '    at JSON.parse (<anonymous>)\n' +
+    '    at parse (/home/bhargav_p/Downloads/github/BusTicket/node_modules/body-parser/lib/types/json.js:89:19)\n' +
+    '    at /home/bhargav_p/Downloads/github/BusTicket/node_modules/body-parser/lib/read.js:121:18\n' +
+    '    at invokeCallback (/home/bhargav_p/Downloads/github/BusTicket/node_modules/raw-body/index.js:224:16)\n' +
+    '    at done (/home/bhargav_p/Downloads/github/BusTicket/node_modules/raw-body/index.js:213:7)\n' +
+    '    at IncomingMessage.onEnd (/home/bhargav_p/Downloads/github/BusTicket/node_modules/raw-body/index.js:273:7)\n' +
+    '    at IncomingMessage.emit (events.js:327:22)\n' +
+    '    at endReadableNT (_stream_readable.js:1221:12)\n' +
+    '    at processTicksAndRejections (internal/process/task_queues.js:84:21)',
+  label: 'error!',
+  timestamp: '2020-06-05T17:51:38.764Z'
+}
